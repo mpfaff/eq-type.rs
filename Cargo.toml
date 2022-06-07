@@ -1,9 +1,12 @@
 [package]
 name = "eq-type"
 version = "0.1.0"
-edition = "2021"
+authors = ["Michael <michael@pfaff.dev>"]
 license = "MIT OR Apache-2.0"
 description = "Allows declaring an equality bound on two types and coercing between them."
 repository = "https://git.pfaff.dev/michael/eq-type.rs"
+homepage = "https://git.pfaff.dev/michael/eq-type.rs"
+readme = "README.md"
+edition = "2021"
 
 [dependencies]
