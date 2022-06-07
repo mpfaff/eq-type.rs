@@ -3,5 +3,7 @@ name = "eq-type"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
+description = "Allows declaring an equality bound on two types and coercing between them."
+repository = "https://git.pfaff.dev/michael/eq-type.rs"
 
 [dependencies]
